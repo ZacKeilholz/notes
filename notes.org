@@ -1,6 +1,13 @@
 * Monday 4/16 - Data Persistance Locally in Browser
 
 ** Saving data on refresh
+*** Use Client Side Because:
+    1. Cost
+    2. Performance
+    3. --
 
+** Modern Day Browser Tech:
+    1. Cookies- original way sites made data available to servers (most complicated- very long string)
+    2.
 
 
